@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h1>hello world</h1>
+	echo "hello?";
 </body>
 </html>
+?>
